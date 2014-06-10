@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+        <repo priority="50" quality="experimental" status="unofficial">
+                <name>ros-gentoo</name>
+                <description>overlay used to install ROS</description>
+                <homepage>https://github.com/steup/Gentoo-ROS-Overlay</homepage>
+                <source type="git">https://github.com/steup/Gentoo-ROS-Overlay</source>
+        </repo>
+</repositories>
+
