@@ -18,8 +18,8 @@ SLOT="0"
 KEYWORDS="amd64 x86"
 IUSE=""
 
-DEPEND="sci-electronics/catkin_pkg
-		sci-electronics/rospkg
+DEPEND="dev-python/catkin_pkg
+		dev-python/rospkg
 		dev-python/pyyaml"
 RDEPEND="${DEPEND}"
 
