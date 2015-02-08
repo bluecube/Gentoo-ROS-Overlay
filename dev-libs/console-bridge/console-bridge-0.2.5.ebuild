@@ -8,10 +8,11 @@ inherit cmake-utils
 DESCRIPTION="Lightweight tool for forwarding output from libraries to other logging systems."
 HOMEPAGE="http://wiki.ros.org/console_bridge"
 EGIT_REPO_URI="https://github.com/ros/console_bridge.git"
+EGIT_COMMIT="${PV}"
 
 LICENSE="BSD"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 DEPEND="dev-libs/boost"

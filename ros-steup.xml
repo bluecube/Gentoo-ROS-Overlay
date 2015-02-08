@@ -4,7 +4,7 @@
                 <name>ros-gentoo</name>
                 <description>overlay used to install ROS</description>
                 <homepage>https://github.com/steup/Gentoo-ROS-Overlay</homepage>
-                <source type="git">https://github.com/Kelvin-Ng/Gentoo-ROS-Overlay</source>
+                <source type="git">https://github.com/steup/Gentoo-ROS-Overlay</source>
         </repo>
 </repositories>
 

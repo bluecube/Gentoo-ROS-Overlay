@@ -3,14 +3,12 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-EAPI=2
+EAPI=5
 inherit cmake-utils
-inherit git-2
 
 DESCRIPTION=""
 HOMEPAGE="https://github.com/ros/${PN}"
-EGIT_REPO_URI="https://github.com/ros/${PN}"
-EGIT_COMMIT="${PV}"
+SRC_URI="https://github.com/ros/${PN}/archive/${PV}.tar.gz"
 
 LICENSE=""
 SLOT="0"
