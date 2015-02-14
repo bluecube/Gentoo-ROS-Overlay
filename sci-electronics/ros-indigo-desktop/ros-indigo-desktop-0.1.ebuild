@@ -12,6 +12,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-DEPEND="sci-electronics/ros-indigo-ros-base app-admin/hddtemp dev-cpp/eigen dev-cpp/yaml-cpp dev-games/ogre dev-libs/poco dev-python/pyopengl dev-python/PyQt4 dev-python/sip dev-python/wxpython dev-qt/qtcore dev-qt/qtopengl dev-util/cppunit media-gfx/graphviz media-gfx/pydot media-gfx/assimp dev-libs/collada-dom media-libs/opencv media-libs/qhull net-misc/curl sys-apps/util-linux x11-themes/tango-icon-theme"
+DEPEND="sci-electronics/ros-indigo-ros-base app-admin/hddtemp dev-cpp/eigen dev-cpp/yaml-cpp dev-games/ogre dev-libs/poco dev-python/pyopengl dev-python/PyQt4 dev-python/sip dev-python/wxpython dev-qt/qtcore dev-qt/qtopengl dev-util/cppunit media-gfx/graphviz media-gfx/pydot media-gfx/assimp dev-libs/collada-dom media-libs/opencv media-libs/qhull media-libs/urdfdom media-libs/urdfdom_headers net-misc/curl sys-apps/util-linux x11-themes/tango-icon-theme"
 RDEPEND="${DEPEND}"
 
