@@ -12,6 +12,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-DEPEND="dev-libs/apr dev-libs/apr-util app-arch/lz4 dev-python/nose virtual/python-imaging dev-lisp/sbcl dev-python/pyyaml app-arch/bzip2 dev-util/cmake dev-python/empy dev-python/rosdep dev-cpp/gtest dev-python/paramiko dev-python/coverage dev-libs/boost dev-libs/log4cxx dev-python/mock dev-lang/python dev-python/numpy dev-python/rospkg dev-libs/tinyxml[stl] dev-python/catkin_pkg dev-python/netifaces dev-util/pkgconfig sci-electronics/rosinstall_generator"
+DEPEND="dev-libs/apr dev-libs/apr-util dev-libs/console-bridge app-arch/lz4 dev-python/nose virtual/python-imaging dev-lisp/sbcl dev-python/pyyaml app-arch/bzip2 dev-util/cmake dev-python/empy dev-python/rosdep dev-cpp/gtest dev-python/paramiko dev-python/coverage dev-libs/boost dev-libs/log4cxx dev-python/mock dev-lang/python dev-python/numpy dev-python/rospkg dev-libs/tinyxml[stl] dev-python/catkin_pkg dev-python/netifaces dev-util/pkgconfig sci-electronics/rosinstall_generator"
 RDEPEND="${DEPEND}"
 
