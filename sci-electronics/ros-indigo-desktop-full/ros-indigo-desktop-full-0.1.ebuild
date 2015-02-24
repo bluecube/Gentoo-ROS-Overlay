@@ -12,6 +12,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-DEPEND="sci-electronics/ros-indigo-desktop media-libs/qhull media-libs/libjpeg-turbo media-libs/libogg media-libs/libtheora media-libs/mesa media-libs/opencv sys-devel/libtool =x11-libs/fltk-1* x11-libs/gtk+ sci-libs/pcl"
+DEPEND="sci-electronics/ros-indigo-desktop media-libs/qhull media-libs/libjpeg-turbo media-libs/libogg media-libs/libtheora media-libs/mesa media-libs/opencv sys-devel/libtool =x11-libs/fltk-1*[xft] x11-libs/gtk+ sci-libs/pcl"
 RDEPEND="${DEPEND}"
 

@@ -3,9 +3,9 @@
 # $Header: $
 
 EAPI=5
-PYTHON_DEPEND="2"
+PYTHON_COMPAT=( python2_7 python3_3 python3_4 )
 
-inherit distutils
+inherit distutils-r1
 
 DESCRIPTION="Library for managing source code trees from multiple version control systems."
 HOMEPAGE="http://www.ros.org/wiki/vcstools"
