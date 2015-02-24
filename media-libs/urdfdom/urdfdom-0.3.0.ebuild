@@ -17,4 +17,4 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE="" 
 
-DEPEND="=sci-electronics/urdfdom_headers-0.3.0"
+DEPEND="=media-libs/urdfdom_headers-0.3.0"
